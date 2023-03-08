@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-<img src="https://burakbozkurtlar.com/wp-content/uploads/2022/02/Neo_Matrix_transcendent_avatar.gif" align="center" style="width: 100%" />
+<img src="https://www.cybermagonline.com/img/sayfa/kodlama-1.gif" align="center" style="width: 100%" />
 </div>  
   
 
